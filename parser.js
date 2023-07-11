@@ -83,3 +83,4 @@ ZxG
 Apt
 KRM
 rmx
+gsq
