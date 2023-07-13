@@ -84,3 +84,4 @@ Apt
 KRM
 rmx
 gsq
+VaR
