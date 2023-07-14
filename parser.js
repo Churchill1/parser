@@ -85,3 +85,4 @@ KRM
 rmx
 gsq
 VaR
+aGM
